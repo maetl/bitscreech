@@ -1,6 +1,6 @@
 # Bitscreech
 
-A [Nano-NaNoGenMo 2019](https://nickm.com/post/2019/11/nano-nanogenmo-or-nnngm/) entry, based on the larger entry [The Bitspeech Sonnets]().
+A [Nano-NaNoGenMo 2019](https://nickm.com/post/2019/11/nano-nanogenmo-or-nnngm/) entry, based on the larger entry [The Bitspeech Sonnets](https://github.com/maetl/bitspeech-sonnets).
 
 This uses the Bitspeech lookup tables of consonants and vowels to generate an asemic stream of words formatted into semi-rhythmic sentences and paragraph breaks.
 
