@@ -4,6 +4,11 @@ A [Nano-NaNoGenMo 2019](https://nickm.com/post/2019/11/nano-nanogenmo-or-nnngm/)
 
 This uses the Bitspeech lookup tables of consonants and vowels to generate an asemic stream of words formatted into semi-rhythmic sentences and paragraph breaks.
 
+## Details
+
+- [Entry on the NaNoGenMo 2019 repo](https://github.com/NaNoGenMo/2019/issues/140)
+- [Output of a 50,000 word ‘book’](https://github.com/maetl/bitscreech/blob/master/book.md)
+
 ## Run
 
 No external dependencies or setup is required aside from having Ruby installed. To generate a ‘book’ run `bitscreech.rb` and redirect its output to a file.
