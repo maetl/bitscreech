@@ -8,6 +8,7 @@ This uses the Bitspeech lookup tables of consonants and vowels to generate an as
 
 - [Entry on the NaNoGenMo 2019 repo](https://github.com/NaNoGenMo/2019/issues/140)
 - [Output of a 50,000 word ‘book’](https://github.com/maetl/bitscreech/blob/master/book.md)
+- [Notes about the project](https://maetl.net/notes/storyboard/bitscreech)
 
 ## Run
 
